@@ -15,10 +15,7 @@ dependencies:
     git:
       url: git://github.com/flutter/plugins.git
       path: packages/url_launcher
-  image_picker: 
-    git:
-      url: git://github.com/flutter/plugins.git
-      path: packages/image_picker
+  image_picker:^0.6.1
   quill_delta: ^1.0.0-dev.1.0
   notus: ^0.1.0
   meta: ^1.1.0
